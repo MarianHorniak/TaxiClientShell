@@ -8,13 +8,17 @@
     <name>Taxi mobile shell</name>
   
     <description>
-      Mobile TESTS 
+      Taxi mobile shell
     </description>
  
     <author href="http://www.datastream.sk" email="info@datastream.sk">
         DataStream
     </author>
+  
+  
   <icon src="img/taximobileshellicon.png" />
+
+  <preference name="phonegap-version" value="cli-7.0.1" />
   
 
 </widget>
