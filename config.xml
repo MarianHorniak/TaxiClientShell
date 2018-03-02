@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "sk.datastream.mobiletestinternal"
+        versionCode = "100"
+        version     = "1.0.0">
+ 
+    <name>Taxi mobile shell</name>
+  
+    <description>
+      Mobile TESTS 
+    </description>
+ 
+    <author href="http://www.datastream.sk" email="info@datastream.sk">
+        DataStream
+    </author>
+  <icon src="img/taximobileshellicon.png" />
+
+  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="57"  height="57"  />
+  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="72"  height="72"  />
+  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="120"  height="120"  />
+  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="152"  height="152"  />
+  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="76"  height="76"  />
+
+
+  
+
+</widget>
