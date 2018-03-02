@@ -15,13 +15,6 @@
         DataStream
     </author>
   <icon src="img/taximobileshellicon.png" />
-  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="57"  height="57"  />
-  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="72"  height="72"  />
-  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="120"  height="120"  />
-  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="152"  height="152"  />
-  <icon src="img/taximobileshellicon.png"       gap:platform="ios" width="76"  height="76"  />
-
-
   
 
 </widget>
