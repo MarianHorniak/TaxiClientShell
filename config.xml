@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns       = "http://www.w3.org/ns/widgets"
-        xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "sk.datastream.taxiclientshell"
-        versionCode = "103"
-        version     = "1.0.3">
- 
-    <name>Taxi mobile shell</name>
-  
-    <description>
-      Taxi mobile shell
-    </description>
- 
-    <author href="http://www.datastream.sk" email="info@datastream.sk">
-        DataStream
-    </author>
-  
-  
+<widget xmlns       = "http://www.w3.org/ns/widgets"         xmlns:gap   = "http://phonegap.com/ns/1.0"         id          = "sk.datastream.taxiclientshell"
+        versionCode = "104"
+        version     = "1.0.4">
+
+  <name>Taxi mobile shell</name>
+  <description> Taxi mobile shell  </description>
+
+  <author href="http://www.datastream.sk" email="info@datastream.sk">    DataStream  </author>
+
+
   <icon src="img/taximobileshellicon.png" />
 
+  <access origin="*"></access>
   <preference name="phonegap-version" value="cli-7.0.1" />
+  <plugin name="cordova-plugin-inappbrowser" />
+  
   
 
 </widget>
