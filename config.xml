@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"         xmlns:gap   = "http://phonegap.com/ns/1.0"         id          = "sk.datastream.taxiclientshell"
-        versionCode = "106"
-        version     = "1.0.6">
+        versionCode = "107"
+        version     = "1.0.7">
 
   <name>Taxi mobile shell</name>
   <description> Taxi mobile shell  </description>
@@ -13,7 +13,7 @@
 
   <access origin="*"></access>
   <preference name="phonegap-version" value="cli-7.0.1" />
-  <plugin name="cordova-plugin-inappbrowser" spec="2.0.2" />
+  <!--<plugin name="cordova-plugin-inappbrowser" spec="2.0.2" />-->
   
 
 </widget>
