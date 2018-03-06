@@ -1,0 +1,28 @@
+﻿html
+{
+	height: 100%;
+}
+
+body
+{
+	position: absolute;
+    top: 0;
+    left: 0;
+	z-index: 1;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+    width:100%;
+	background-color: #ffffff;
+	color: #000;
+	font-size: xx-large;
+	font-family: Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+}
+
+#taxiLink {
+    font-size: xx-large;
+    font-weight: bold;
+    vertical-align: middle;
+    text-align: center;
+}
